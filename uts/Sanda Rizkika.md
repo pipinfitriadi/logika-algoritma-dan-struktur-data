@@ -6,7 +6,7 @@ Sebuah perusahaan menilai karyawan berdasarkan jumlah proyek selesai dan rata-ra
 
 ```py
 names       = ["Arif", "Bella", "Chandra", "Dina"]
-projects    = [    5,      8,         3,       10]
+projects    = [    5,      8,         3,       4]
 avg_hours   = [   35,     42,        30,       45]
 ```
 
@@ -18,19 +18,19 @@ Karyawan dianggap **berprestasi** jika telah menyelesaikan ≥ 5 proyek **dan** 
 2. Jika terdaftar, periksa kriteria:
     * Bila kedua syarat terpenuhi, cetak:
         ```
-        X berprestasi!
+        Bella berprestasi!
         ```
     * Bila proyek cukup tapi jam kerja kurang, cetak:
         ```
-        X perlu meningkatkan jam kerja.
+        Arif perlu meningkatkan jam kerja.
         ```
     * Bila jam cukup tapi proyek kurang, cetak:
         ```
-        X perlu menyelesaikan lebih banyak proyek.
+        Dina perlu menyelesaikan lebih banyak proyek.
         ```
     * Bila keduanya kurang, cetak:
         ```
-        X perlu meningkatkan proyek dan jam kerja.
+        Chandra perlu meningkatkan proyek dan jam kerja.
         ```
 3. Jika nama tidak ada, cetak:
     ```

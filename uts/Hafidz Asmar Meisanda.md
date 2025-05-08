@@ -9,7 +9,7 @@ Pembeli memasukkan dua baris:
 
 **Tugas:**
 
-1. Hitung `total = sum(harga[i] * qty[i])`.
+1. Hitung `total` $= \sum_{i=1}^{n} harga_i \times kuantitas_i$.
 2. Jika `total ≥ 1_000_000`, cetak:
     ```
     Total sebelum diskon: {total}

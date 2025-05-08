@@ -11,13 +11,13 @@ Program membaca list kata dari input, lalu mengecek satu kata target.
 3. Jika kata target ada di list, cek apakah palindrome (sama dibalik).
 4. Cetak salah satu:
     ```
-    Kata "kata" ditemukan dan palindrome.
+    Kata "level" ditemukan dan palindrome.
     ```
 
     atau
 
     ```
-    Kata "kata" ditemukan tetapi bukan palindrome.
+    Kata "ayam" ditemukan tetapi bukan palindrome.
     ```
 
     atau
@@ -31,7 +31,7 @@ Program membaca list kata dari input, lalu mengecek satu kata target.
 _Input:_
 
 ```
-radar level civic motor
+radar level civic motor ayam
 level
 ```
 
