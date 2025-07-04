@@ -4,3 +4,4 @@
 * [binary_search.py](binary_search.py)
 * [selection_sort.py](selection_sort.py)
 * [recursion.py](recursion.py)
+* [quick_sort.py](quick_sort.py)
